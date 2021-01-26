@@ -1,0 +1,2 @@
+# RoseLauncher
+The RoseClient launcher.
